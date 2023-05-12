@@ -11,13 +11,14 @@
 <table align="center">
 <tbody>
 <tr>
-<td align="center" width="33%">   
-<a href="https://github.com/Beel0w/404CTF">404CTF</a>
-102/2500
+<td align="center" width="50%">   
+  <a href="https://github.com/Beel0w/404CTF">404CTF</a> 
+  
+  102/2500
 </td>
-<td align="center" width="33%">
-<a href="https://github.com/Beel0w/BDSecCTF">BDSecCTF</a>
-27/542
+<td align="center" width="50%">
+  <a href="https://github.com/Beel0w/BDSecCTF">BDSecCTF</a>
+  27/542
 </td>
 </tr>
 </tbody>
