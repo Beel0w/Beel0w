@@ -15,9 +15,6 @@
 <a href="https://github.com/Beel0w/404CTF">404CTF</a>
 102/2500
 </td>
-<td align="center" width="33%"> 
-<a href="https://github.com/Beel0w/PWNMECTF">PWNMECTF</a>
-</td>
 <td align="center" width="33%">
 <a href="https://github.com/Beel0w/BDSecCTF">BDSecCTF</a>
 27/542
@@ -28,4 +25,4 @@
 
 
 Credits : [Beel0w](https://github.com/Beel0w)  
-Last Edited on: 21/07/2022
+Last Edited on: 12/05/2023
